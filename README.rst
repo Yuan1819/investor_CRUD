@@ -29,5 +29,6 @@ Note: <database_name> must be exist in database server before you run next comma
 * For frontend, run this command::
 
     $ cd frontend
+    $ yarn install
     $ yarn start
 
