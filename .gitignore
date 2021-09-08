@@ -329,10 +329,12 @@ messaging_app/media/
 .pytest_cache/
 
 
-.env
+
 
 .envs/*
 
 !.envs/.local/
 
 /.idea
+yarn.lock
+/db.sqlite3
